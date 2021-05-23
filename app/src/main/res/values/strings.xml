@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Track</string>
+    <string name="title_track_list">Track list</string>
+    <string name="title_map">Map</string>
+    <string name="Longitude">Longitude</string>
+    <string name="Latitude">Latitude</string>
+    <string name="Altitude">Altitude</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
