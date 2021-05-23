@@ -127,11 +127,10 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="25dp"
-        android:enabled="false"
         android:layout_marginBottom="45dp"
-        app:icon="@drawable/ic_save"
-        android:text="Save"
         android:backgroundTint="#4CAF50"
-        />
+        android:enabled="false"
+        android:text="Save"
+        app:icon="@drawable/ic_save" />
 
 </RelativeLayout>
